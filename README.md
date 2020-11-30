@@ -1,0 +1,1 @@
+#Ejercicio de node en el cual se cargan dos módulos y se crea una carpeta y un archivo nombrados por consola como primer parametro y borrandolas si se especifica como segundo parámetro
